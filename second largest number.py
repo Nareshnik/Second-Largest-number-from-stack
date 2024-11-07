@@ -8,7 +8,7 @@
      secondlarge=large
      large=i
    elif i>secondlarge and i!=large:
-        secondlarge=i
+     secondlarge=i
  print("Second largest number in array : ",secondlarge
 
 
